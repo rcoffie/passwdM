@@ -1,0 +1,7 @@
+DEBUG=True
+TEMPLATE_DEBUG=True
+SECRET_KEY=django-insecure-by&+x=(ct2)uxiaiq$9vge072s@o71fmn3u8m&z&h7j@3zbd0s
+DATABASE_URL=
+PERCENTILE=90%
+#COMMENTED=42
+# SECRET_KEY = 'django-insecure-by&+x=(ct2)uxiaiq$9vge072s@o71fmn3u8m&z&h7j@3zbd0s'
